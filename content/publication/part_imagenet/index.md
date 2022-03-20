@@ -29,13 +29,13 @@ publishDate: "2022-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *arXiv preprint*
-<!-- publication_short: In ** -->
+publication_short: In **
 
-abstract: A part-based object understanding facilitates efficient compositional learning and knowledge transfer, robustness to occlusion, and has the potential to increase the performance on general recognition and localization tasks. However, research on part-based models is hindered due to the lack of datasets with part annotations, which is caused by the extreme difficulty and high cost of annotating object parts in images. In this paper, we propose PartImageNet, a large, high-quality dataset with part segmentation annotations. It consists of 158 classes from ImageNet with approximately 24000 images. PartImageNet is unique because it offers part-level annotations on a general set of classes with non-rigid, articulated objects, while having an order of magnitude larger size compared to existing datasets. It can be utilized in multiple vision tasks including but not limited to: Part Discovery, Semantic Segmentation, Few-shot Learning. Comprehensive experiments are conducted to set up a set of baselines on PartImageNet and we find that existing works on part discovery can not always produce satisfactory results during complex variations. The exploit of parts on downstream tasks also remains insufficient. We believe that our PartImageNet will greatly facilitate the research on part-based models and their applications.
+abstract: "A part-based object understanding facilitates efficient compositional learning and knowledge transfer, robustness to occlusion, and has the potential to increase the performance on general recognition and localization tasks. However, research on part-based models is hindered due to the lack of datasets with part annotations, which is caused by the extreme difficulty and high cost of annotating object parts in images. In this paper, we propose PartImageNet, a large, high-quality dataset with part segmentation annotations. It consists of 158 classes from mageNet with approximately 24000 images. PartImageNet is unique because it offers part-level annotations on a general set of classes with non-rigid, articulated objects, while having an order of magnitude larger size compared to existing datasets. It can be utilized in multiple vision tasks including but not limited to: Part Discovery, Semantic Segmentation, Few-shot Learning. Comprehensive experiments are conducted to set up a set of baselines on PartImageNet and we find that existing works on part discovery can not always produce satisfactory results during complex variations. The exploit of parts on downstream tasks also remains insufficient. We believe that our PartImageNet will greatly facilitate the research on part-based models and their applications."
 
 # Summary. An optional shortened abstract.
 
