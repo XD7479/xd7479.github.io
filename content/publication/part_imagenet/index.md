@@ -9,7 +9,7 @@ authors:
 - Shuo Yang
 - Shaokang Yang
 - Adam Kortylewski
-- Xiaoding Yuan
+- admin
 - Jie-Neng Chen
 - Shuai Liu
 - Cheng Yang
