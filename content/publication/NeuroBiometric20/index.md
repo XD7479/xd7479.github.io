@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE/CAA Journal of Automatica Sinica*
-publication_short: In *JAS*
+<!-- publication_short: In *IEEE/CAA JAS* -->
 
 abstract: The rise of the Internet and identity authentication systems has brought convenience to people’s lives but has also introduced the potential risk of privacy leaks. Existing biometric authentication systems based on explicit and static features bear the risk of being attacked by mimicked data. This work proposes a highly efficient biometric authentication system based on transient eye blink signals that are precisely captured by a neuromorphic vision sensor with microsecond-level temporal resolution. The neuromorphic vision sensor only transmits the local pixel-level changes induced by the eye blinks when they occur, which leads to advantageous characteristics such as an ultra-low latency response. We first propose a set of effective biometric features describing the motion, speed, energy and frequency signal of eye blinks based on the microsecond temporal resolution of event densities. We then train the ensemble model and non-ensemble model with our NeuroBiometric dataset for biometrics authentication. The experiments show that our system is able to identify and verify the subjects with the ensemble model at an accuracy of 0.948 and with the non-ensemble model at an accuracy of 0.925. The low false positive rates (about 0.002) and the highly dynamic features are not only hard to reproduce but also avoid recording visible characteristics of a user’s appearance. The proposed system sheds light on a new path towards safer authentication using neuromorphic vision sensors.
 
