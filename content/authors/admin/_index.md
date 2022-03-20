@@ -1,7 +1,7 @@
 ---
 title: Xiaoding Yuan
 role: Ph.D. Student of Computer Science
-avatar_filename: 3fadf257-ea91-4f1e-bfdf-822ce8e063dc_1_201_a.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
