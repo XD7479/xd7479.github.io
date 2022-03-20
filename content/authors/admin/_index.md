@@ -39,4 +39,4 @@ I am a first-year Computer Science Ph.D. student at Johns Hopkins University, wh
 
 My research interests currently lie in the field of weakly-supervised learning and robustness in computer vision. 
 
-\#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
