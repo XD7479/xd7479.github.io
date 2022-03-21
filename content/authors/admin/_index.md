@@ -34,7 +34,7 @@ highlight_name: true
 ---
 I am a first-year Computer Science Ph.D. student at Johns Hopkins University, where I'm fortunate to be advised by Bloomberg Distinguished Professor <a href="https://cogsci.jhu.edu/directory/alan-yuille">Alan Yuille</a>. 
 
-Before this, I received my B.Eng. degree from Tongji University in 2021. I have also spent great time at Bytedance and NIO.
+Before this, I received my B.Eng. degree from Tongji University in 2021. I have also spent great time at ByteDance and NIO.
 
 My research interests currently lie in the field of semi-/weakly-supervised learning and robustness in computer vision. 
 
