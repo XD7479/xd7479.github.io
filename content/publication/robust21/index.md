@@ -34,7 +34,8 @@ abstract: Analyzing complex scenes with Deep Neural Networks is a challenging ta
 
 # Summary. An optional shortened abstract.
 
-tags: []
+tags: 
+- CVPR
 
 # Display this page in the Featured widget?
 featured: true
