@@ -1,38 +1,42 @@
 ---
-title: "NeuroBiometric: An eye blink based biometric authentication system using an event-based neuromorphic vision sensor"
+title: "Learning Part Segmentation through Unsupervised Domain Adaptation from Synthetic Vehicles"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Guang Chen
-- Fa Wang
+- Qing Liu
+- Adam Kortylewski
+- Zhishuai Zhang
+- Zizhang Li
+- Mengqi Guo
+- Qihao Liu
 - admin
-- Zhijun Li
-- Zichen Liang
-- Alois Knoll
+- Jiteng Mu
+- Weichao Qiu
+- Alan Yuille
 
 # Author notes (optional)
 author_notes: []
 
 
-date: "2020"
+date: "2022"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-26T00:00:00Z"
+publishDate: "2022-11-26T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE/CAA Journal of Automatica Sinica*
-<!-- publication_short: In *IEEE/CAA JAS* -->
+publication: In *CVPR* 2022
+<!-- publication_short: In *CVPR 2022* -->
 
-abstract: The rise of the Internet and identity authentication systems has brought convenience to people’s lives but has also introduced the potential risk of privacy leaks. Existing biometric authentication systems based on explicit and static features bear the risk of being attacked by mimicked data. This work proposes a highly efficient biometric authentication system based on transient eye blink signals that are precisely captured by a neuromorphic vision sensor with microsecond-level temporal resolution. The neuromorphic vision sensor only transmits the local pixel-level changes induced by the eye blinks when they occur, which leads to advantageous characteristics such as an ultra-low latency response. We first propose a set of effective biometric features describing the motion, speed, energy and frequency signal of eye blinks based on the microsecond temporal resolution of event densities. We then train the ensemble model and non-ensemble model with our NeuroBiometric dataset for biometrics authentication. The experiments show that our system is able to identify and verify the subjects with the ensemble model at an accuracy of 0.948 and with the non-ensemble model at an accuracy of 0.925. The low false positive rates (about 0.002) and the highly dynamic features are not only hard to reproduce but also avoid recording visible characteristics of a user’s appearance. The proposed system sheds light on a new path towards safer authentication using neuromorphic vision sensors.
+abstract: "Part segmentations provide a rich and detailed part-level description of objects. However, their annotation requires an enormous amount of work, which makes it difficult to apply standard deep learning methods. In this paper, we propose the idea of learning part segmentation through unsupervised domain adaptation (UDA) from synthetic data. We first introduce UDA-Part, a comprehensive part segmentation dataset for vehicles that can serve as an adequate benchmark for UDA. In UDA-Part, we label parts on 3D CAD models which enables us to generate a large set of annotated synthetic images. We also annotate parts on a number of real images to provide a real test set. Secondly, to advance the adaptation of part models trained from the synthetic data to the real images, we introduce a new UDA algorithm that leverages the object's spatial structure to guide the adaptation process. Our experimental results on two real test datasets confirm the superiority of our approach over existing works, and demonstrate the promise of learning part segmentation for general objects from synthetic data. We believe our dataset provides a rich testbed to study UDA for part segmentation and will help to significantly push forward research in this area."
 
 # Summary. An optional shortened abstract.
 
