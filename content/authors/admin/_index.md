@@ -32,7 +32,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a first-year Computer Science Ph.D. student at Johns Hopkins University, where I'm fortunate to be advised by Bloomberg Distinguished Professor <a href="https://www.cs.jhu.edu/~ayuille/">Alan Yuille</a>. 
+I am a second-year Computer Science Ph.D. student at Johns Hopkins University, where I'm fortunate to be advised by Bloomberg Distinguished Professor <a href="https://www.cs.jhu.edu/~ayuille/">Alan Yuille</a>. 
 
 Before this, I received my B.Eng. degree from Tongji University in 2021. I have also spent great time at NIO, ByteDance and Amazon.
 
