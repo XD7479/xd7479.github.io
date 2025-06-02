@@ -38,8 +38,10 @@ design:
   columns: '2'
   
 ---
-**03/2023**: I'm looking for a summer research intern position in 2023, please contact me if you have positions available and think I'm a good match.
+**05/2025**: I will join Google XR team as a student researcher.
 
-**03/20/2022**: I will join AWS as an applied scientist intern this summer.
+**08/2023**: I will join ByteDance as a research intern working on panorama generation.
+
+**03/2022**: I will join AWS as an applied scientist intern this summer.
 
 
