@@ -32,11 +32,11 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a second-year Computer Science Ph.D. student at Johns Hopkins University, where I'm fortunate to be advised by Bloomberg Distinguished Professor <a href="https://www.cs.jhu.edu/~ayuille/">Alan Yuille</a>. 
+I am a fourth-year Computer Science Ph.D. student at Johns Hopkins University, where I'm fortunate to be advised by Bloomberg Distinguished Professor <a href="https://www.cs.jhu.edu/~ayuille/">Alan Yuille</a>. I'm currently also a student researcher in Google XR team.
 
 Before this, I received my B.Eng. degree from Tongji University in 2021. I have also spent great time at NIO, ByteDance and Amazon.
 
-My research interests currently lie in the field of semi-/weakly-supervised learning and vision-and-language learning. 
+My research interests currently lie in the field of vision-and-language learning and 3D understanding & generation.
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
